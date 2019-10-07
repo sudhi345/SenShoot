@@ -1,5 +1,5 @@
 # SenShoot
-*This project is sponsored by [Appiko](https://appiko.org){:target="_blank"}.*
+*This project is sponsored by [Appiko](https://appiko.org).*
 ### Objective
 To trigger a smartphone camera using a microcontroller.
 ### Introduction
