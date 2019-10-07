@@ -3,7 +3,7 @@
 ### Objective
 To trigger a smartphone camera using a microcontroller.
 ### Introduction
-This project is all about making a small circuit that can be controlled by a microcontroller to trigger a smartphone camera. Few sensors (motion sensor, LDR, etc.) can be interfaced to microcontroller to make it more usable and to make it more interesting. This is just a proof os concept and no practical application will be discussed here. Later, probably some application of this will be linked here...
+This project is all about making a small circuit that can be controlled by a microcontroller to trigger a smartphone camera. Few sensors (motion sensor, LDR, etc.) can be interfaced to microcontroller to make it more usable and to make it more interesting. This is just a proof os concept and no practical application will be discussed here. Later, (probably) some application of this will be linked here...
 ### Working
 All smartphones with 3.5mm headphone jack have a feature in the camera settings to take pictures by pressing the volume rocker or Play/Pause button. This works only when the camera app is open and active. But what to do when the phone goes to sleep mode? Well, there's one more feature by which you can wake up the phone and shoot pictures! That's by double-pressing the volume down button (If not working, this function should be selected in the camera settings).
 
