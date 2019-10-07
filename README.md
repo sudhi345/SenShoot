@@ -1,2 +1,3 @@
 # SenShoot
-A device to trigger cellphone camera
+This project is sponsered by [Appiko](appiko.org)
+A device to Sense and trigger cellphone camera
