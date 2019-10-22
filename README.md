@@ -15,7 +15,7 @@ All smartphones with 3.5mm headphone jack have a feature in the camera settings 
 
 Below is the image of the schematic where a suitable solder jumper should be shorted (volume down is recommended as waking up the phone and shooting both can be done). AUX cable can be used to connect the phone and this circuit (or just *hack a jack* from an old headphone). No extra power is required by the circuit (Make sure ground connections are proper i.e. Microcontroller ground and phone's ground are shorted to circuit's gound).  
 ##### Detecting the headphone
-As per the standards, a 1.2k ohm resistance between mic and ground pin tells the phone that a headphone is connected (R5&R4).
+As per the standards [[1]](https://source.android.com/devices/accessories/headset/jack-headset-spec) [[2]](https://source.android.com/devices/accessories/headset/plug-headset-spec), a 1.2k ohm resistance between mic and ground pin tells the phone that a headphone is connected (R5&R4).
 ##### Volume Up button
 The volume up signal is asserted by changing the resistance between mic and ground pin to 250 ohms (210 - 290 ohm). Since there is 1.2k ohm, we need to add 330 ohms (R2) resistor in parallel to get the value in the range mentioned.
 ##### Volume Down button
